@@ -1,6 +1,6 @@
 import { between, inject } from '../src'
 
-// console.log(between('A', 'B'))
+console.log(between('A', 'B'))
 // AV
 
 const binaryBetween = inject('01').between

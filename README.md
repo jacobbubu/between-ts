@@ -17,4 +17,11 @@ npm i @jacoebubu/between-ts
 npm run example:ex1
 ```
 
+``` ts
+import { between } from '@jacoebubu/between-ts'
+
+console.log(between('A', 'B'))
+// AV
+```
+
 Please read the code in test folder for the detail usage.
